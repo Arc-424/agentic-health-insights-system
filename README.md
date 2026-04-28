@@ -221,7 +221,7 @@ Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the develo
 
 | Avatar | Name | GitHub | Role |
 |--------|------|--------|------|
-| <img src="https://github.com/Arc-424.png" width="50px" height="50px"/> | Harsh Gajjar | [Arc-424](https://github.com/Arc-424) | Project Creator & Maintainer |
+| <img src="https://github.com/Arc-424.png" width="50px" height="50px"/> | Archit Choudhary | [Arc-424](https://github.com/Arc-424) | Project Creator & Maintainer |
 
 ## 📄 License
 
