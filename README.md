@@ -231,6 +231,3 @@ MIT — see [LICENSE](LICENSE).
 
 Created by Archit Choudhary
 =======
-# agentic-health-insights-system
-Agentic AI system for medical report analysis using a validation-driven, multi-agent workflow with orchestration, structured extraction, and feedback loops.
->>>>>>> 12f15259717aa47ef2b84fb4663ba666387fa570
