@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🩺 HIA — Agentic Health Insights System
 
 An AI-powered multi-agent system that ingests medical blood reports and produces structured health insights through a validation-driven, orchestrated agent workflow.
